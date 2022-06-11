@@ -5,7 +5,21 @@ This repository contains a Rock Paper Scissors game task I did at ZUri Internshi
 I made ue of these resources you might want to check out.
 
 Resources:
-https://www.youtube.com/watch?v=ND4fd6yScBM
+
+How to Play Rock, Paper, Scissors: https://www.youtube.com/watch?v=ND4fd6yScBM
+
+Rock paper scissors - Wikipedia
+
+Introduction to Python Modules
+
+Python Random Module
+
+Python random choice() function to select a random item from a List and Set
+
+For Loops
+
+While Loops
+
 
 https://en.wikipedia.org/wiki/Rock_paper_scissors
 
